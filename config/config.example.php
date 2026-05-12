@@ -21,7 +21,7 @@ define('DB_PASS', 'your_database_password');
 define('DB_CHARSET', 'utf8mb4');
 
 // Application Settings
-define('APP_NAME', 'AutoShop');
+define('APP_NAME', 'Mechanic);
 define('APP_VERSION', '1.0.0');
 
 $isLocalhost = in_array($_SERVER['HTTP_HOST'] ?? '', ['localhost', '127.0.0.1'], true);
@@ -29,7 +29,7 @@ if ($isLocalhost) {
     define('BASE_URL', 'http://localhost/autoshop');
     define('BASE_PATH', $_SERVER['DOCUMENT_ROOT'] . '/autoshop');
 } else {
-    define('BASE_URL', 'https://example.com/');
+define('BASE_URL', 'https://autoshop.hakimnet.online/');
     define('BASE_PATH', $_SERVER['DOCUMENT_ROOT'] . '/');
 }
 
