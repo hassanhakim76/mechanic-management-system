@@ -26,10 +26,10 @@ define('APP_VERSION', '1.0.0');
 
 $isLocalhost = in_array($_SERVER['HTTP_HOST'] ?? '', ['localhost', '127.0.0.1'], true);
 if ($isLocalhost) {
-    define('BASE_URL', 'http://localhost/autoshop');
-    define('BASE_PATH', $_SERVER['DOCUMENT_ROOT'] . '/autoshop');
+    define('BASE_URL', 'http://localhost/mechanic');
+    define('BASE_PATH', $_SERVER['DOCUMENT_ROOT'] . '/mechanic');
 } else {
-define('BASE_URL', 'https://autoshop.hakimnet.online/');
+define('BASE_URL', 'https://mechanic.hakimnet.online/');
     define('BASE_PATH', $_SERVER['DOCUMENT_ROOT'] . '/');
 }
 
