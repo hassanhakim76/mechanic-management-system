@@ -1,0 +1,115 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3877 >>
+stream
+BT /F2 18 Tf 45.00 752.00 Td (PRECISION AUTOWORKS) Tj ET
+BT /F2 12 Tf 45.00 732.00 Td (Customer Work Order) Tj ET
+BT /F1 9 Tf 365.00 752.00 Td (Generated: April 27, 2026) Tj ET
+BT /F1 9 Tf 365.00 737.00 Td (Customer-facing sample) Tj ET
+45.00 718.00 m 567.00 718.00 l S
+BT /F2 11 Tf 45.00 696.00 Td (Work Order #: PREC-007129) Tj ET
+BT /F1 10 Tf 245.00 696.00 Td (Date: April 25, 2026) Tj ET
+BT /F2 10 Tf 415.00 696.00 Td (Status: PENDING) Tj ET
+45.00 678.00 m 567.00 678.00 l S
+BT /F2 10 Tf 45.00 663.00 Td (CUSTOMER) Tj ET
+BT /F2 9 Tf 45.00 644.00 Td (Name:) Tj ET
+BT /F1 9 Tf 127.00 644.00 Td (Stephen Lymn) Tj ET
+BT /F2 9 Tf 45.00 629.00 Td (Phone:) Tj ET
+BT /F1 9 Tf 127.00 629.00 Td (\(613\) 799-9112) Tj ET
+BT /F2 9 Tf 45.00 614.00 Td (Cell:) Tj ET
+BT /F1 9 Tf 127.00 614.00 Td (Not provided) Tj ET
+BT /F2 9 Tf 45.00 599.00 Td (Email:) Tj ET
+BT /F1 9 Tf 127.00 599.00 Td (Not provided) Tj ET
+BT /F2 9 Tf 330.00 644.00 Td (Address:) Tj ET
+BT /F1 9 Tf 390.00 644.00 Td (2   1011 prince of wales, Ottawa, Ontario) Tj ET
+45.00 586.00 m 567.00 586.00 l S
+BT /F2 10 Tf 45.00 571.00 Td (VEHICLE) Tj ET
+BT /F2 9 Tf 45.00 552.00 Td (Vehicle:) Tj ET
+BT /F1 9 Tf 127.00 552.00 Td (2014 NISSAN ALTIMA) Tj ET
+BT /F2 9 Tf 45.00 537.00 Td (VIN:) Tj ET
+BT /F1 9 Tf 127.00 537.00 Td (1N4AL3APXEN358828) Tj ET
+BT /F2 9 Tf 45.00 522.00 Td (Plate:) Tj ET
+BT /F1 9 Tf 127.00 522.00 Td (CWBB136) Tj ET
+BT /F2 9 Tf 330.00 552.00 Td (Mileage:) Tj ET
+BT /F1 9 Tf 398.00 552.00 Td (1,200 km) Tj ET
+BT /F2 9 Tf 330.00 537.00 Td (Color:) Tj ET
+BT /F1 9 Tf 398.00 537.00 Td (BLACK) Tj ET
+BT /F2 9 Tf 330.00 522.00 Td (Engine:) Tj ET
+BT /F1 9 Tf 398.00 522.00 Td (2.5) Tj ET
+45.00 509.00 m 567.00 509.00 l S
+BT /F2 10 Tf 45.00 494.00 Td (REQUESTED WORK / SERVICE PERFORMED) Tj ET
+45.00 427.00 522.00 61.00 re S
+BT /F2 9 Tf 57.00 469.00 Td (W.I. 1) Tj ET
+BT /F1 9 Tf 105.00 469.00 Td (starter) Tj ET
+BT /F2 9 Tf 57.00 452.00 Td (Completed:) Tj ET
+BT /F1 9 Tf 116.00 452.00 Td (Yes) Tj ET
+BT /F2 9 Tf 180.00 452.00 Td (Action Taken:) Tj ET
+BT /F1 9 Tf 252.00 452.00 Td (starter changed) Tj ET
+45.00 366.00 522.00 61.00 re S
+BT /F2 9 Tf 57.00 408.00 Td (W.I. 2) Tj ET
+BT /F1 9 Tf 105.00 408.00 Td (oil change) Tj ET
+BT /F2 9 Tf 57.00 391.00 Td (Completed:) Tj ET
+BT /F1 9 Tf 116.00 391.00 Td (Yes) Tj ET
+BT /F2 9 Tf 180.00 391.00 Td (Action Taken:) Tj ET
+BT /F1 9 Tf 252.00 391.00 Td (5 k w 40 and filter) Tj ET
+45.00 305.00 522.00 61.00 re S
+BT /F2 9 Tf 57.00 347.00 Td (W.I. 3) Tj ET
+BT /F1 9 Tf 105.00 347.00 Td (tires) Tj ET
+BT /F2 9 Tf 57.00 330.00 Td (Completed:) Tj ET
+BT /F1 9 Tf 116.00 330.00 Td (Yes) Tj ET
+BT /F2 9 Tf 180.00 330.00 Td (Action Taken:) Tj ET
+BT /F1 9 Tf 252.00 330.00 Td (wefghjkl) Tj ET
+45.00 302.00 m 567.00 302.00 l S
+BT /F2 10 Tf 45.00 287.00 Td (CUSTOMER NOTE) Tj ET
+BT /F1 9 Tf 45.00 268.00 Td (gghgh ghgh g ghghg hghg hgh hghghghgh) Tj ET
+45.00 257.00 m 567.00 257.00 l S
+BT /F2 10 Tf 45.00 242.00 Td (WORK ORDER NOTE) Tj ET
+BT /F1 9 Tf 45.00 223.00 Td (Not provided) Tj ET
+45.00 212.00 m 567.00 212.00 l S
+BT /F2 10 Tf 45.00 197.00 Td (ASSIGNMENT / ROAD TEST) Tj ET
+BT /F2 9 Tf 45.00 178.00 Td (Assigned Mechanic:) Tj ET
+BT /F1 9 Tf 155.00 178.00 Td (Loway) Tj ET
+BT /F2 9 Tf 45.00 163.00 Td (Test Drive:) Tj ET
+BT /F1 9 Tf 155.00 163.00 Td (Completed) Tj ET
+45.00 148.00 m 567.00 148.00 l S
+BT /F2 10 Tf 45.00 133.00 Td (CUSTOMER AUTHORIZATION) Tj ET
+BT /F1 9 Tf 45.00 114.00 Td (I authorize the repair/service work listed above and acknowledge the service details) Tj ET
+BT /F1 9 Tf 45.00 101.00 Td (shown on this customer-facing work order sample.) Tj ET
+45.00 62.00 m 275.00 62.00 l S
+360.00 62.00 m 567.00 62.00 l S
+BT /F1 9 Tf 45.00 48.00 Td (Customer Signature) Tj ET
+BT /F1 9 Tf 360.00 48.00 Td (Date) Tj ET
+45.00 54.00 m 567.00 54.00 l S
+BT /F2 9 Tf 45.00 38.00 Td (Thank you for choosing Precision Autoworks.) Tj ET
+BT /F1 9 Tf 505.00 38.00 Td (Page 1) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000185 00000 n 
+0000000260 00000 n 
+0000000396 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4324
+%%EOF

@@ -1,0 +1,60 @@
+# AutoShop .gitignore
+
+# Configuration files with sensitive data
+config/config.php
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-*
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+logs/
+
+# Uploaded files
+uploads/*
+!uploads/.gitkeep
+
+# Backup files
+*.bak
+*.backup
+*.sql.gz
+backups/
+
+# Cache
+cache/
+tmp/
+
+# Environment files
+.env
+.env.local
+
+# Composer (if used in future)
+vendor/
+composer.lock
+
+# NPM (if used in future)
+node_modules/
+package-lock.json
+
+# Test files
+tests/
+phpunit.xml
+
+# === DATABASE ===
+database/*
+!database/schema.sql
+!database/demo_data.sql
+!database/README.md
+
+# JetBrains IDE files
+.idea/
